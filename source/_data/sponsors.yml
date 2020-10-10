@@ -1,0 +1,50 @@
+sponsors_block_title: "Thanks to our awesome sponsors"
+main:
+  sponsor1:
+    name: ""
+    logo_filename: ""
+    site_url: ""
+diamond:
+  sponsor1:
+    name: ""
+    logo_filename: ""
+    site_url: ""
+platinum:
+  sponsor1:
+    name: ""
+    logo_filename: ""
+    site_url: ""
+gold:
+  sponsor1:
+    name: ""
+    logo_filename: ""
+    site_url: ""
+silver:
+  sponsor1:
+    name: ""
+    logo_filename: ""
+    site_url: ""
+bronze:
+  sponsor1:
+    name: ""
+    logo_filename: ""
+    site_url: ""
+  sponsor2:
+    name: ""
+    logo_filename: ""
+    site_url: ""
+  sponsor3:
+    name: ""
+    logo_filename: ""
+    site_url: ""
+media:
+  sponsor1:
+    name: ""
+    logo_filename: ""
+    site_url: ""
+
+community_partners:
+  cp_1:
+    name: ""
+    website_url: ""
+    logo_filename: ""

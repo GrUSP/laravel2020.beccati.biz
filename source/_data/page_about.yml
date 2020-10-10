@@ -1,0 +1,39 @@
+intro:
+  main_title: "About"
+  content_1: 
+    "sfday is proudly organised by GrUSP. <br> 
+    GrUSP is a community founded in 2003 as a PHP User Group, that has become the reference point in Italy for good practice in all fields of web development. 
+    We have been organising community-oriented conferences since then, always pursuing the goal of creating opportunities for people to meet, learn, share and grow together."
+  content_2: 
+    "GrUSP is a non-profit organisation whose aim is to improve a healthier and sustainable web development ecosystem in Italy. We organise affordable, high-quality events and workshops for developers and promote the creation of local user groups (PUG), helping them in their activities. <br>
+    Diversity and inclusion have always been at the heart of our initiative. We have been applying a code of conduct for many years, and we have scholarship programs for each of our conferences."
+more:
+  title: "sfday"
+  content_1: 
+    "sfday Italy (formerly known as SymfonyDay) is the main conference in Italy that is dedicated solely to Symfony and its ecosystem. <br> 
+    Created in 2012 as a local event, sfday has grown over the years and become an international conference hosted entirely in English, with its 8th edition in 2019."
+  content_2:
+past_edition:
+  title: "Browse past editions of sfday"
+  video_url: "https://www.youtube.com/embed/videoseries?list=PLWK9j6ps_unkUCCSXPSSy3uDuBj3MG_cT"
+  video_caption: "Watch the videos from the latest edition"
+team:
+  title: "Our team"
+  intro: ""
+  members:
+    member_1:
+      name: "Francesco Fullone"
+      role: "(his role)"
+      pic_filename: "fili1.jpg"
+    member_2:
+      name: "Giulia Tosato"
+      role: "(her role)"
+      pic_filename: "giulia.jpeg"
+    member_3:
+      name: "Another Member"
+      role: "(his role)"
+      pic_filename: "fili1.jpg"
+    member_4:
+      name: "Yet Another"
+      role: "(her role)"
+      pic_filename: "giulia.jpeg"
